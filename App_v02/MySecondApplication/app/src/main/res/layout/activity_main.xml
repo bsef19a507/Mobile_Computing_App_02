@@ -29,7 +29,7 @@
         android:onClick="changeText"
         android:paddingLeft="30px"
         android:paddingRight="30px"
-        android:text="Read More"
+        android:text="Change Text"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
