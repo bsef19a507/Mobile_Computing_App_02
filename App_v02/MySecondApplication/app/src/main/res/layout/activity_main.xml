@@ -31,7 +31,7 @@
         android:onClick="changeText"
         android:paddingLeft="30px"
         android:paddingRight="30px"
-        android:text="Change Text"
+        android:text="Next"
         android:textAllCaps="false"
         android:textColor="#7311f6"
         android:textSize="20sp"
